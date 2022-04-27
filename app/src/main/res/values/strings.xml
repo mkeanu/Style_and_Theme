@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AryoStyleAndTheme</string>
+    <string name="content_text">Google officially announced its much-anticipated Pixel phones; the Pixel and Pixel XL, on October 4. We attended Google’s London UK event, mirroring the main one taking place in San Francisco, US, where the firm unwrapped the new Android 7.1 Nougat devices which will apparently usurp Google’s long-standing Nexus series.</string>
+    <string name="content_specs_display">AMOLED, 1B colors, 120Hz, HDR10+, 1500 nits (peak)
+    6.81 inches, 112.0 cm2 (~91.4% screen-to-body ratio)
+    1440 x 3200 pixels, 20:9 ratio (~515 ppi density)
+    Corning Gorilla Glass Victus</string>
+    <string name="content_specs_size">164.3 x 74.6 x 8.1 mm (Glass) / 8.6 mm (Leather)
+    196 g (Glass) / 194 g (Leather) (6.84 oz)
+    Glass front (Gorilla Glass Victus), glass back (Gorilla Glass 5) or eco leather back, aluminum frame
+    Dual SIM (Nano-SIM, dual stand-by)</string>
+    <string name="content_specs_battery">Li-Po 4600 mAh, non-removable
+        Fast charging 55W, 100% in 45 min (advertised)
+        Fast wireless charging 50W, 100% in 53 min (advertised)
+        Reverse wireless charging 10W
+        Quick Charge 4+</string>
+    <string name="stock">Stock hanya 5 buah</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="display">Display</string>
+    <string name="size">Size</string>
+    <string name="battery">Battery</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Aryo Djati</string>
+    <string name="buy">Beli</string>
+    <string name="dummy_value">$735</string>
+    <string name="dummy_photos">6 photos</string>
+</resources>
